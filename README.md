@@ -35,39 +35,27 @@
 </p>
 
 
-<h3>⚡️ Facts About Me ⚡️</h3><br/>
-<p>
-  🧔 Aspiring <bold>FullStack and Mobile Developer</bold>. 23 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
-</p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
+<h2>⚡️ Facts About Me ⚡️</h2><br/>
+<h3>
+  🧔 Aspiring <bold>FullStack and Mobile Developer</bold>. 23 years old, Graduating Student from Palawan State University 🎓.<br/>
+  💼 I do a programming tutor and freelance for both students, private individual and clients.<br/>
+  💻 I specialized in building applications with Javascript and PHP. However, I am much into React Native and Flask right now.<br/>
+  🎥 I am looking for opportunities that could enrich my experience in JavaScript (React JS), PHP, and React Native<br/>
+</h3>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <details>
-  <summary>Quelques statistiques ...</summary><br/>
+  <summary>Click Here for More ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C308%20hrs%2013%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-247-blue)
 
 **🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
+> 💼 Looking to be Hire
  > 
-> 🏆 1 Contributions in the Year 2024
+> 📜 24 Public Repositories 
  > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
 
 📊 **This Week I Spent My Time On** 
@@ -76,32 +64,33 @@
 🕑︎ Time Zone: Asia
 
 💬 Programming Languages: 
-Other                    1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.75 % 
-Vue.js                   59 mins             ██████████░░░░░░░░░░░░░░░   38.57 % 
-sh                       21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+React Js                                     ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Php                                          ███░░░░░░░░░░░░░░░░░░░░░░   25.00 % 
+React Native                                 █░░░░░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java, C++ and etc                            ░░░░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.89 % 
-Chrome                   1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.26 % 
+VS Code                                      ███████████████░░░░░░░░░░   60.00 % 
+Chrome                                       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Vin                                          ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.26 % 
+Windows                                      ████████████████████░░░░░   80.00 % 
+Ubuntu                                       ░░░░░░░░░░░░░░░░░░░░█████   20.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-PHP                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   38.77 % 
+HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.44 % 
+PHP                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   23.81 % 
+React Native             2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Etc                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
 ```
 
-
-
-
- Last Updated on 05/01/2024 00:05:37 UTC
+ Last Updated on 06/01/2024 00:05:37 UTC
 <!--END_SECTION:waka-->
 </details>
