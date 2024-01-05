@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/-Git-F44D27?style=for-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   </p>
 </p>
 <p>
@@ -25,20 +27,9 @@
   <a href="https://linkedin.com/in//gillbert-padon-33597b291"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <h2>⚡️ Facts About Me ⚡️</h2>
-<p>
-🧔 Passionate about becoming a Full Stack and Mobile Developer, I'm a 23-year-old graduating student from Palawan State University 🎓.
-<br/>
-💼 I thrive as a programming tutor and freelancer, catering to students, individuals, and clients alike.
-<br/>
-💻 My expertise lies in crafting robust applications using JavaScript and PHP. Presently, I'm delving deep into the realms of React Native and Flask.
-<br/>
-🎥 Eagerly seeking opportunities to further enrich my skills in JavaScript (React JS), PHP, and React Native. I'm on the lookout for experiences that push the boundaries and fuel my passion for development.
-</p>
+<p>🧔 Passionate about becoming a Full Stack and Mobile Developer, I'm a 23-year-old graduating student from Palawan State University 🎓. 💼 I thrive as a programming tutor and freelancer, catering to students, individuals, and clients alike. 💻 My expertise lies in crafting robust applications using JavaScript and PHP. Presently, I'm delving deep into the realms of React Native and Flask. 🎥 Eagerly seeking opportunities to further enrich my skills in JavaScript (React JS), PHP, and React Native. I'm on the lookout for experiences that push the boundaries and fuel my passion for development.</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<details>
-  <summary>Click Here for More ...</summary><br/>
 
 <!--START_SECTION:waka-->
 
@@ -83,6 +74,3 @@ Python                   2 repos             █░░░░░░░░░░�
 Etc                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
 ```
 
- Last Updated on 06/01/2024 00:05:37 UTC
-<!--END_SECTION:waka-->
-</details>
