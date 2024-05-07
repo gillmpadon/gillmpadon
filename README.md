@@ -29,44 +29,6 @@
 <h2>⚡️ Facts About Me ⚡️</h2>
 <h4>Passionate about becoming a Full Stack and Mobile Developer, I'm a 23-year-old graduating student from Palawan State University. I thrive as a programming tutor and freelancer, catering to students, individuals, and clients alike. My expertise lies in crafting robust applications using JavaScript and PHP. Presently, I'm delving deep into the realms of React Native and Flask. Eagerly seeking opportunities to further enrich my skills in JavaScript (React JS), PHP, and React Native. I'm on the lookout for experiences that push the boundaries and fuel my passion for development.</h4>
 
+<h4>I am a 23-year-old graduating student from Palawan State University, driven by a passion for becoming a Full Stack and Mobile Developer. My experience includes solo development projects for various clients, where I have demonstrated proficiency in developing e-commerce platforms, ridesharing apps, and web applications for diverse purposes. Currently, I am expanding my expertise by exploring React Native and Flask, eager to further enhance my skills in JavaScript (React JS), PHP, and React Native to tackle new challenges in the world of development.</h4>
 
-**🐱 My GitHub Data** 
-> 💼 Looking to be Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-
-## Programming Skills & Etc
-
-```text
-
-💬 Programming Languages: 
-React Js                                     ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Php                                          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-React Native                                 ████░░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                                       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java, C++ and etc                            █░░░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-
-🔥 Editors: 
-VS Code                                      ███████████████░░░░░░░░░░   60.00 % 
-Chrome                                       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Vin                                          ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-
-💻 Operating System: 
-Windows                                      ████████████████████░░░░░   80.00 % 
-Ubuntu                                       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-## Repositories Distribution
-
-```text
-JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   38.77 % 
-HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.44 % 
-PHP                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   23.81 % 
-React Native             2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Etc                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   21.43 % 
-```
-
+<h4>In my journey as a developer, I have successfully completed projects such as SmartBubble - a Bubble Test Checker developed using React Native, Node, and MongoDB. This comprehensive application enables real-time test paper checking for teachers, showcasing my ability to create practical solutions for educational settings. Additionally, my involvement in projects like Uplift - a Ride Sharing App built with React Native, Supabase, and PostgreSQL, highlights my proficiency in creating user-friendly interfaces and integrating essential functionalities for seamless user experiences. I am enthusiastic about exploring new opportunities that will push the boundaries of my skills and fuel my passion for development, allowing me to contribute meaningfully to innovative projects and drive positive change in the tech industry.</h4>
