@@ -27,8 +27,30 @@
   <a href="https://linkedin.com/in//gillbert-padon-33597b291"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <h2>⚡️ Facts About Me ⚡️</h2>
-<h4>Passionate about becoming a Full Stack and Mobile Developer, I'm a 23-year-old graduating student from Palawan State University. I thrive as a programming tutor and freelancer, catering to students, individuals, and clients alike. My expertise lies in crafting robust applications using JavaScript and PHP. Presently, I'm delving deep into the realms of React Native and Flask. Eagerly seeking opportunities to further enrich my skills in JavaScript (React JS), PHP, and React Native. I'm on the lookout for experiences that push the boundaries and fuel my passion for development.</h4>
 
-<h4>I am a 23-year-old graduating student from Palawan State University, driven by a passion for becoming a Full Stack and Mobile Developer. My experience includes solo development projects for various clients, where I have demonstrated proficiency in developing e-commerce platforms, ridesharing apps, and web applications for diverse purposes. Currently, I am expanding my expertise by exploring React Native and Flask, eager to further enhance my skills in JavaScript (React JS), PHP, and React Native to tackle new challenges in the world of development.</h4>
+<p>
+    I am a <strong>graduate in Computer Science</strong> and a <strong>23-year-old</strong> professional driven by a passion for becoming a <strong>Full Stack and Mobile Developer</strong>. My journey has been enriched by my role as a <strong>programming tutor and freelancer</strong>, where I cater to students, individuals, and clients alike. With over <strong>3 years of total experience</strong>, I have developed robust applications using <strong>JavaScript</strong> and <strong>PHP</strong>, and I am currently delving deep into the realms of <strong>React Native</strong> and <strong>Flask</strong>. I am eager to seek opportunities that will further enrich my skills in <strong>JavaScript (React JS)</strong>, <strong>PHP</strong>, and <strong>React Native</strong>, pushing the boundaries of my development capabilities.
+</p>
 
-<h4>In my journey as a developer, I have successfully completed projects such as SmartBubble - a Bubble Test Checker developed using React Native, Node, and MongoDB. This comprehensive application enables real-time test paper checking for teachers, showcasing my ability to create practical solutions for educational settings. Additionally, my involvement in projects like Uplift - a Ride Sharing App built with React Native, Supabase, and PostgreSQL, highlights my proficiency in creating user-friendly interfaces and integrating essential functionalities for seamless user experiences. I am enthusiastic about exploring new opportunities that will push the boundaries of my skills and fuel my passion for development, allowing me to contribute meaningfully to innovative projects and drive positive change in the tech industry.</h4>
+<p>
+    I have demonstrated proficiency through solo development projects for various clients, including the creation of <strong>e-commerce platforms</strong>, <strong>ridesharing apps</strong>, and diverse web applications. Currently, I am expanding my expertise by exploring new challenges in the development landscape.
+</p>
+
+<h3>Notable Projects</h3>
+<ul>
+    <li>
+        <strong>SmartBubble</strong>: A Bubble Test Checker developed using React Native, Node.js, and MongoDB. This application enables real-time test paper checking for teachers, showcasing my ability to create practical solutions for educational settings.
+    </li>
+    <li>
+        <strong>Uplift</strong>: A ridesharing app built with React Native, Supabase, and PostgreSQL. This project highlights my proficiency in creating user-friendly interfaces and integrating essential functionalities for seamless user experiences.
+    </li>
+</ul>
+
+<p>
+    I am enthusiastic about exploring new opportunities that will push the boundaries of my skills and fuel my passion for development. My goal is to contribute meaningfully to innovative projects that drive positive change in the tech industry.
+</p>
+
+<h3>Current Role</h3>
+<p>
+    I am currently working at <strong>Cebu Pacific</strong> as a full stack developer using the <strong>Expo framework</strong> with React Native. This role allows me to apply my skills in mobile application development while contributing to impactful projects.
+</p>
